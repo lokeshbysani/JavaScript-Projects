@@ -20,3 +20,9 @@ This is a Repo for JavaScript Projects created as a part of JavaScript learning
 2. Global Events. (Keyboard Events)
 3. Work with HTML classes. (Add,Remove,Modify,contains)
 4. Functions
+
+### 2. RollDice
+
+##### Learnings:
+
+1. How to work with and manipulate multiple classes using JS

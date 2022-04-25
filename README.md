@@ -21,8 +21,8 @@ This is a Repo for JavaScript Projects created as a part of JavaScript learning
 3. Work with HTML classes. (Add,Remove,Modify,contains)
 4. Functions
 
-### 2. RollDice
+### 3. RollDice
 
 ##### Learnings:
 
-1. How to work with and manipulate multiple classes using JS
+1. How to work with and manipulate multiple classes in html using JS

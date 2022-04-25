@@ -10,3 +10,6 @@ This is a Repo for JavaScript Projects created as a part of JavaScript learning
   5. Multiple validations
 ### 2. ModalWindow
   ##### Learnings:
+  1. DOM QuerySelectorAll
+  2. Global Events. (Keyboard Events)
+  3. Work with HTML classes. (Add,Remove,Modify,contains)

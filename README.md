@@ -8,3 +8,5 @@ This is a Repo for JavaScript Projects created as a part of JavaScript learning
   3. Event Listeners in DOM
   4. Random number generation
   5. Multiple validations
+### 2. ModalWindow
+  ##### Learnings:
